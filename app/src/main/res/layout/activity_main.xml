@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shweta.integercalculator.MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton9"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="288dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton10"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton11"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="334dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton5"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="288dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton6"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton7"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton3"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="439dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="58dp"
+        android:layout_height="59dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="254dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="58dp"
+        android:layout_height="56dp"
+        android:text="ToggleButton"
+        tools:layout_editor_absoluteX="288dp"
+        tools:layout_editor_absoluteY="439dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="343dp"
+        android:layout_height="76dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="161dp" />
+
+</android.support.constraint.ConstraintLayout>
